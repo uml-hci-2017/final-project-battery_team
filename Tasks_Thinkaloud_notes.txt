@@ -1,0 +1,88 @@
+Battery Doctor
+Top 3 tasks to be done:
+1) Go to a battery saving mode and choose a mode.
+2) Go through battery details and also go through super saver and optimize the battery usage.
+3) Go to batter cooler and cool down the battery.
+
+Participant-1
+--------------
+1) Selected Long life Battery saving mode. It disables WLAN and data services. It is easy to find and choose.
+
+2) Battery details was easy to find in the 3 dots tab. Super saver was present on the main page of the app. Optimizing battery was pretty easy with just the push of a button.
+
+3) Battery cooler was also present on the main app page and one press cooled the battery down.
+
+
+Participant-2
+--------------
+1) The option is clearly visible at the bottom of screen. On clicking got 4 options to choose and mentioned details about mode using icons. It was easy to choose based on our interest.
+
+2) It was also easy to find and clearly shows the details of apps that are using the battery and how long it stays. The super saver was at bottom of the screen and has one click solution to optimize
+
+3) The battery cooler is easy to find and shows the temperature of battery and has option to cool down.
+
+
+Participant-3
+--------------
+1) Nice UI, can be made easy using colors to define saving modes like blue for classic and red for sleep or maximum saving mode.
+
+2) Too much battery details. need quick remarks on purpose of each option atleast the super saver option. displayed in primary window.
+
+3) The option was good and easy to be done.
+
+Participant-4
+--------------
+1) the battery saving option was right there and I chose the long life mode.
+
+2) the battery details give the idea of the phones battery life including the estimated power remaining, battery usage by applications, battery status, and charging history. besides, the super saver quickly runs throug the phone and gives all the running applications which we can optimize based on the need. 
+
+3) the battery cooler option gives the current temparature and also provides the list of applications that may be the cause of the over heating and can be optimized to improve the temparature.
+
+Participant-5
+--------------
+1) I like the UI. Lots of options to choose according to my need.
+
+2) The super saver mode is really good. It puts all the un-neccessary apps to sleep and also shows the apps that run in the background like social media and messenger apps which drains the battery life. With this I can choose which app can be stopped from  running in the background. 
+
+3) This feature saves the performance of the battery from losing charge unneccesariy by running apps that comsume charge continuously in the background (like calender, android system programs). This feature is usefull when my mobile gets heated up by excessive usage.
+
+
+Participant-6
+--------------
+1) Default modes are not customizable. New modes can be created.
+
+2) Has shortcut on home page but shortcut is not easy to decipher. Extra details of the battery given. Super saver mode doesnt consume time.		
+
+3) Battery cooler is easy to use and provides good details . But is seems to  be same as the super saver mode.
+
+Participant-7
+--------------
+1) Lot of options to choose from and categories are well defined.
+
+2) I found it easily and a good battery analysis. Super saver helps to control battery usage. It shows all the apps in the phone that is using more battery.
+
+3) More features than the deafult battery mode. Allows me to optimize my battery temperature and usage.
+
+Participant-8
+--------------
+1) I went to app and found the saving mode on the home page. It was easy to find and has options to choose betweeen various modes. I chose the classic mode.
+
+2) At first had little difficulty in finding the battery details option. It has many details that are useful to analyze my battery usage. Super saver was on hope page. It scans all apps and shows all the apps that are needed to be optimized
+
+3) Battery cooler shows the phone temperature and also the apps that are heating up the phone. Has one click solution to cool down the phone.
+
+Participant-9
+--------------
+1) The UI is simple and easy. The options are clearly visible. Finished first task by choosing the mode that I wanted.
+
+2) Battery details has all info about the battery usage and also charge history. Super saver was easy to locate and also has one click solution on home page to optimize the apps to save the battery life.
+
+3) This is a good feature that can stop phones from over heating. The option was on main page of app.
+
+Participant-10
+---------------
+1) Went to app clicked on saving mode. I liked to create my own saving mode which was easy to do.
+
+2) Battery details is easy to find in menu. It also has a shortcut but not clearly stated. Was very useful feature. Also clicked on super saver option it scans all apps and optimizes those to save battery life.
+
+3) Battery cooler is useful for me as I have problem of my phone heating up. The app is very useful and smooth.
